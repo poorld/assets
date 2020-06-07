@@ -7,9 +7,8 @@ using System.Threading.Tasks;
 namespace Assets.Common.Attributes
 {
     /// <summary>
-    /// 表的实体类注解
+    /// 一个自定义特性：实体类属性与数据库表字段关联
     /// </summary>
-    /// // Multiuse attribute.  
     [System.AttributeUsage(System.AttributeTargets.Field |
                             System.AttributeTargets.Property
                             ,AllowMultiple = false)  // Multiuse attribute.  

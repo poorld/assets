@@ -1,6 +1,7 @@
 ﻿using Assets.AssetManage;
 using Assets.AssetsClass;
 using Assets.BrandManage;
+using Assets.Common.Enums;
 using Assets.Common.Tools;
 using Assets.DB;
 using Assets.DepartmentManage;
@@ -185,6 +186,8 @@ namespace Assets
 
             string name1 = Tool.analysisFieldName("brand_id");
             string name2 = Tool.analysisFieldName("hello_ni_hao");
+
+            object o = Enum.Parse(typeof(BrandState), "1");
 
         }
 

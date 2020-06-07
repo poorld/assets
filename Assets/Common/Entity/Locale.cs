@@ -22,16 +22,16 @@ namespace Assets.Common.Entity
             get { return localeName; }
             set { localeName = value; }
         }
-        private int localeType;
+        private string localeType;
 
-        public int LocaleType
+        public string LocaleType
         {
             get { return localeType; }
             set { localeType = value; }
         }
-        private int localeState;
+        private string localeState;
 
-        public int LocaleState
+        public string LocaleState
         {
             get { return localeState; }
             set { localeState = value; }

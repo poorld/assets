@@ -32,9 +32,9 @@ namespace Assets.Common.Entity
             get { return pcName; }
             set { pcName = value; }
         }
-        private int pcState;
+        private string pcState;
 
-        public int PcState
+        public string PcState
         {
             get { return pcState; }
             set { pcState = value; }

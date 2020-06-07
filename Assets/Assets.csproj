@@ -48,6 +48,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Common\Attributes\EnumFieldAttribute.cs" />
     <Compile Include="Common\Attributes\TableFieldAttribute.cs" />
     <Compile Include="Common\Dao\CommonDao.cs" />
     <Compile Include="Common\Entity\Brand.cs" />

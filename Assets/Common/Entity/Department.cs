@@ -27,9 +27,9 @@ namespace Assets.Common.Entity
             set { departmentCode = value; }
         }
 
-        private int departmentState;
+        private string departmentState;
 
-        public int DepartmentState
+        public string DepartmentState
         {
             get { return departmentState; }
             set { departmentState = value; }

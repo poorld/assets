@@ -50,15 +50,15 @@ namespace Assets.Common.Entity
             set { property_descr = value; }
         }
 
-        private int property_state;
-        public int Property_state
+        private string property_state;
+        public string Property_state
         {
             get { return property_state; }
             set { property_state = value; }
         }
 
-        private int scrap_way;
-        public int Scrap_way
+        private string scrap_way;
+        public string Scrap_way
         {
             get { return scrap_way; }
             set { scrap_way = value; }

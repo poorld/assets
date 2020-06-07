@@ -1,4 +1,5 @@
 ﻿using Assets.Common.Attributes;
+using Assets.Common.Enums;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -37,9 +38,10 @@ namespace Assets.Common.Entity
             set { brandName = value; }
         }
 
-        private int brandState;
+        private string brandState;
         [TableField("brand_state", "int")]
-        public int BrandState
+        [EnumField(typeof(BrandState))]
+        public string BrandState
         {
             get { return brandState; }
             set { brandState = value; }

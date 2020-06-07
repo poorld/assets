@@ -32,9 +32,9 @@ namespace Assets.Common.Entity
             get { return supplierType; }
             set { supplierType = value; }
         }
-        private int supplierState;
+        private string supplierState;
 
-        public int SupplierState
+        public string SupplierState
         {
             get { return supplierState; }
             set { supplierState = value; }

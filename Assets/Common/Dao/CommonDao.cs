@@ -149,10 +149,16 @@ namespace Assets.Common.Dao
         //    return new List<T>();
         //}
 
+        /// <summary>
+        /// 遍历字段，通过反射赋值给对象
+        /// by teenyda
+        /// </summary>
+        /// <param name="dr"></param>
+        /// <returns></returns>
         protected T foreachField(SqlDataReader dr)
         {
             T t = new T();
-            
+
             int count = dr.VisibleFieldCount;
             // 遍历实体字段，利用反射赋值给对象
             for (int i = 0; i < count; i++)
@@ -165,8 +171,20 @@ namespace Assets.Common.Dao
                 {
                     if (p.Name.Equals(fieldName))
                     {
-                        p.SetValue(t, value);
+                        object[] objs = p.GetCustomAttributes(typeof(EnumFieldAttribute), true);
+                        //如果有枚举关联
+                        if (objs.Length > 0)
+                        {
+                            object enumValue = Enum.Parse(((EnumFieldAttribute)objs[0]).EnumClazz, Convert.ToString(value));
+                            p.SetValue(t, enumValue.ToString());
+                        }
+                        else
+                        {
+                            p.SetValue(t, value);
+                        }
+
                         break;
+
                     }
                 }
             }
