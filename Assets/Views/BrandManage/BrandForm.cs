@@ -1,4 +1,5 @@
-﻿using Assets.Views.BrandManage.Dao;
+﻿using Assets.Views.BrandManage.Add;
+using Assets.Views.BrandManage.Dao;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -26,5 +27,10 @@ namespace Assets.BrandManage
             dao.test();
         }
 
+        private void BrandAdd_Click(object sender, EventArgs e)
+        {
+            //BrandAdd brandAddForm = new BrandAdd();
+            //brandAddForm.Show();
+        }
     }
 }

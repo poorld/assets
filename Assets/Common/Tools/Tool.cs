@@ -48,5 +48,15 @@ namespace Assets.Common.Tools
 
             return _name;
         }
+
+        /// <summary>
+        /// 随机8位数
+        /// </summary>
+        /// <returns></returns>
+        public static string random8Number()
+        {
+            byte[] buffer = Guid.NewGuid().ToByteArray();
+            return BitConverter.ToUInt32(buffer, 8).ToString();
+        }
     }
 }

@@ -165,3 +165,4 @@ D:\project\vsProject\assets-master\Assets\obj\Debug\Assets.InformationManage.Inf
 D:\project\vsProject\assets-master\Assets\obj\Debug\Assets.PlaceManage.PlaceForm.resources
 D:\project\vsProject\assets-master\Assets\obj\Debug\Assets.SupplierManage.SupplierForm.resources
 D:\project\vsProject\assets-master\Assets\obj\Debug\Assets.csproj.GenerateResource.Cache
+D:\project\vsProject\assets-master\Assets\obj\Debug\Assets.Views.BrandManage.Add.BrandAdd.resources

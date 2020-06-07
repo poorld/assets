@@ -34,6 +34,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.ServiceProcess" />
@@ -46,6 +48,7 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Common\Attributes\EnumFieldAttribute.cs" />
@@ -121,6 +124,12 @@
     <Compile Include="Views\AssetsClassManage\AssetsClassRetirement.Designer.cs">
       <DependentUpon>AssetsClassRetirement.cs</DependentUpon>
     </Compile>
+    <Compile Include="Views\BrandManage\Add\BrandAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\BrandManage\Add\BrandAdd.Designer.cs">
+      <DependentUpon>BrandAdd.cs</DependentUpon>
+    </Compile>
     <Compile Include="Views\BrandManage\BrandForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -186,6 +195,9 @@
     <EmbeddedResource Include="Views\AssetsClassManage\AssetsClassRetirement.resx">
       <DependentUpon>AssetsClassRetirement.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\BrandManage\Add\BrandAdd.resx">
+      <DependentUpon>BrandAdd.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\BrandManage\BrandForm.resx">
       <DependentUpon>BrandForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -218,6 +230,7 @@
   <ItemGroup>
     <Content Include="DB\asset.sql" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
