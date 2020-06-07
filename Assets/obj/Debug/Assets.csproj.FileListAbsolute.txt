@@ -1,0 +1,146 @@
+D:\project\vsProject\Assets\Assets\bin\Debug\Assets.exe.config
+D:\project\vsProject\Assets\Assets\bin\Debug\Assets.exe
+D:\project\vsProject\Assets\Assets\bin\Debug\Assets.pdb
+D:\project\vsProject\Assets\Assets\obj\Debug\Assets.csprojResolveAssemblyReference.cache
+D:\project\vsProject\Assets\Assets\obj\Debug\Assets.Properties.Resources.resources
+D:\project\vsProject\Assets\Assets\obj\Debug\Assets.AssetManage.AssetsBorrow.resources
+D:\project\vsProject\Assets\Assets\obj\Debug\Assets.AssetManage.AssetsRetirement.resources
+D:\project\vsProject\Assets\Assets\obj\Debug\Assets.AssetManage.AssetsReturn.resources
+D:\project\vsProject\Assets\Assets\obj\Debug\Assets.AssetManage.AssetsStorage.resources
+D:\project\vsProject\Assets\Assets\obj\Debug\Assets.AssetsClass.AssetsClassAdd.resources
+D:\project\vsProject\Assets\Assets\obj\Debug\Assets.AssetsClass.AssetsClassRetirement.resources
+D:\project\vsProject\Assets\Assets\obj\Debug\Assets.BrandManage.Brand.resources
+D:\project\vsProject\Assets\Assets\obj\Debug\Assets.DepartmentManage.Department.resources
+D:\project\vsProject\Assets\Assets\obj\Debug\Assets.InformationManage.Information.resources
+D:\project\vsProject\Assets\Assets\obj\Debug\Assets.PlaceManage.Place.resources
+D:\project\vsProject\Assets\Assets\obj\Debug\Assets.SupplierManage.Supplier.resources
+D:\project\vsProject\Assets\Assets\obj\Debug\Assets.csproj.GenerateResource.Cache
+D:\project\vsProject\Assets\Assets\obj\Debug\Assets.exe
+D:\project\vsProject\Assets\Assets\obj\Debug\Assets.pdb
+C:\Users\PC-913\Desktop\assets-master\Assets\bin\Debug\Assets.exe.config
+C:\Users\PC-913\Desktop\assets-master\Assets\obj\Debug\Assets.exe
+C:\Users\PC-913\Desktop\assets-master\Assets\obj\Debug\Assets.pdb
+C:\Users\PC-913\Desktop\assets-master\Assets\bin\Debug\Assets.exe
+C:\Users\PC-913\Desktop\assets-master\Assets\bin\Debug\Assets.pdb
+C:\Users\PC-913\Desktop\assets-master\Assets\obj\Debug\Assets.csprojResolveAssemblyReference.cache
+C:\Users\PC-913\Desktop\assets-master\Assets\obj\Debug\Assets.Properties.Resources.resources
+C:\Users\PC-913\Desktop\assets-master\Assets\obj\Debug\Assets.AssetManage.AssetsBorrow.resources
+C:\Users\PC-913\Desktop\assets-master\Assets\obj\Debug\Assets.AssetManage.AssetsRetirement.resources
+C:\Users\PC-913\Desktop\assets-master\Assets\obj\Debug\Assets.AssetManage.AssetsReturn.resources
+C:\Users\PC-913\Desktop\assets-master\Assets\obj\Debug\Assets.AssetManage.AssetsStorage.resources
+C:\Users\PC-913\Desktop\assets-master\Assets\obj\Debug\Assets.AssetsClass.AssetsClassAdd.resources
+C:\Users\PC-913\Desktop\assets-master\Assets\obj\Debug\Assets.AssetsClass.AssetsClassRetirement.resources
+C:\Users\PC-913\Desktop\assets-master\Assets\obj\Debug\Assets.BrandManage.Brand.resources
+C:\Users\PC-913\Desktop\assets-master\Assets\obj\Debug\Assets.DepartmentManage.Department.resources
+C:\Users\PC-913\Desktop\assets-master\Assets\obj\Debug\Assets.InformationManage.Information.resources
+C:\Users\PC-913\Desktop\assets-master\Assets\obj\Debug\Assets.PlaceManage.Place.resources
+C:\Users\PC-913\Desktop\assets-master\Assets\obj\Debug\Assets.SupplierManage.Supplier.resources
+C:\Users\PC-913\Desktop\assets-master\Assets\obj\Debug\Assets.csproj.GenerateResource.Cache
+C:\Users\PC-913\Desktop\assets-master\Assets\obj\Debug\Assets.Main.resources
+C:\Users\PC-913\Desktop\assets-master\Assets\obj\Debug\Assets.Test.Views.Form1.resources
+D:\assets-master\Assets\bin\Debug\Assets.exe.config
+D:\assets-master\Assets\obj\Debug\Assets.exe
+D:\assets-master\Assets\obj\Debug\Assets.pdb
+D:\assets-master\Assets\bin\Debug\Assets.exe
+D:\assets-master\Assets\bin\Debug\Assets.pdb
+D:\assets-master\Assets\obj\Debug\Assets.csprojResolveAssemblyReference.cache
+D:\assets-master\Assets\obj\Debug\Assets.Main.resources
+D:\assets-master\Assets\obj\Debug\Assets.Properties.Resources.resources
+D:\assets-master\Assets\obj\Debug\Assets.Test.Views.Form1.resources
+D:\assets-master\Assets\obj\Debug\Assets.AssetManage.AssetsBorrow.resources
+D:\assets-master\Assets\obj\Debug\Assets.AssetManage.AssetsRetirement.resources
+D:\assets-master\Assets\obj\Debug\Assets.AssetManage.AssetsReturn.resources
+D:\assets-master\Assets\obj\Debug\Assets.AssetManage.AssetsStorage.resources
+D:\assets-master\Assets\obj\Debug\Assets.AssetsClass.AssetsClassAdd.resources
+D:\assets-master\Assets\obj\Debug\Assets.AssetsClass.AssetsClassRetirement.resources
+D:\assets-master\Assets\obj\Debug\Assets.BrandManage.Brand.resources
+D:\assets-master\Assets\obj\Debug\Assets.DepartmentManage.Department.resources
+D:\assets-master\Assets\obj\Debug\Assets.InformationManage.Information.resources
+D:\assets-master\Assets\obj\Debug\Assets.PlaceManage.Place.resources
+D:\assets-master\Assets\obj\Debug\Assets.SupplierManage.Supplier.resources
+D:\assets-master\Assets\obj\Debug\Assets.csproj.GenerateResource.Cache
+C:\Users\PC-913\Desktop\assets-master\assets-master\Assets\bin\Debug\Assets.exe.config
+C:\Users\PC-913\Desktop\assets-master\assets-master\Assets\obj\Debug\Assets.exe
+C:\Users\PC-913\Desktop\assets-master\assets-master\Assets\obj\Debug\Assets.pdb
+C:\Users\PC-913\Desktop\assets-master\assets-master\Assets\obj\Debug\Assets.csprojResolveAssemblyReference.cache
+C:\Users\PC-913\Desktop\assets-master\assets-master\Assets\obj\Debug\Assets.Main.resources
+C:\Users\PC-913\Desktop\assets-master\assets-master\Assets\obj\Debug\Assets.Properties.Resources.resources
+C:\Users\PC-913\Desktop\assets-master\assets-master\Assets\obj\Debug\Assets.Test.Views.Form1.resources
+C:\Users\PC-913\Desktop\assets-master\assets-master\Assets\obj\Debug\Assets.AssetManage.AssetsBorrow.resources
+C:\Users\PC-913\Desktop\assets-master\assets-master\Assets\obj\Debug\Assets.AssetManage.AssetsRetirement.resources
+C:\Users\PC-913\Desktop\assets-master\assets-master\Assets\obj\Debug\Assets.AssetManage.AssetsReturn.resources
+C:\Users\PC-913\Desktop\assets-master\assets-master\Assets\obj\Debug\Assets.AssetManage.AssetsStorage.resources
+C:\Users\PC-913\Desktop\assets-master\assets-master\Assets\obj\Debug\Assets.AssetsClass.AssetsClassAdd.resources
+C:\Users\PC-913\Desktop\assets-master\assets-master\Assets\obj\Debug\Assets.AssetsClass.AssetsClassRetirement.resources
+C:\Users\PC-913\Desktop\assets-master\assets-master\Assets\obj\Debug\Assets.BrandManage.Brand.resources
+C:\Users\PC-913\Desktop\assets-master\assets-master\Assets\obj\Debug\Assets.DepartmentManage.Department.resources
+C:\Users\PC-913\Desktop\assets-master\assets-master\Assets\obj\Debug\Assets.InformationManage.Information.resources
+C:\Users\PC-913\Desktop\assets-master\assets-master\Assets\obj\Debug\Assets.PlaceManage.Place.resources
+C:\Users\PC-913\Desktop\assets-master\assets-master\Assets\obj\Debug\Assets.SupplierManage.Supplier.resources
+C:\Users\PC-913\Desktop\assets-master\assets-master\Assets\obj\Debug\Assets.csproj.GenerateResource.Cache
+C:\Users\PC-913\Desktop\assets-master\assets-master\Assets\bin\Debug\Assets.exe
+C:\Users\PC-913\Desktop\assets-master\assets-master\Assets\bin\Debug\Assets.pdb
+D:\9527\assets-master (2)\assets-master\Assets\bin\Debug\Assets.exe.config
+D:\9527\assets-master (2)\assets-master\Assets\obj\Debug\Assets.exe
+D:\9527\assets-master (2)\assets-master\Assets\obj\Debug\Assets.pdb
+D:\9527\assets-master (2)\assets-master\Assets\obj\Debug\Assets.csprojResolveAssemblyReference.cache
+D:\9527\assets-master (2)\assets-master\Assets\obj\Debug\Assets.Main.resources
+D:\9527\assets-master (2)\assets-master\Assets\obj\Debug\Assets.Properties.Resources.resources
+D:\9527\assets-master (2)\assets-master\Assets\obj\Debug\Assets.Test.Views.Form1.resources
+D:\9527\assets-master (2)\assets-master\Assets\obj\Debug\Assets.AssetManage.AssetsBorrow.resources
+D:\9527\assets-master (2)\assets-master\Assets\obj\Debug\Assets.AssetManage.AssetsRetirement.resources
+D:\9527\assets-master (2)\assets-master\Assets\obj\Debug\Assets.AssetManage.AssetsReturn.resources
+D:\9527\assets-master (2)\assets-master\Assets\obj\Debug\Assets.AssetManage.AssetsStorage.resources
+D:\9527\assets-master (2)\assets-master\Assets\obj\Debug\Assets.AssetsClass.AssetsClassRetirement.resources
+D:\9527\assets-master (2)\assets-master\Assets\obj\Debug\Assets.BrandManage.BrandForm.resources
+D:\9527\assets-master (2)\assets-master\Assets\obj\Debug\Assets.DepartmentManage.DepartmentForm.resources
+D:\9527\assets-master (2)\assets-master\Assets\obj\Debug\Assets.InformationManage.Information.resources
+D:\9527\assets-master (2)\assets-master\Assets\obj\Debug\Assets.PlaceManage.PlaceForm.resources
+D:\9527\assets-master (2)\assets-master\Assets\obj\Debug\Assets.SupplierManage.SupplierForm.resources
+D:\9527\assets-master (2)\assets-master\Assets\obj\Debug\Assets.csproj.GenerateResource.Cache
+D:\9527\assets-master (2)\assets-master\Assets\obj\Debug\Assets.AssetsClass.AssetsClassForm.resources
+D:\9527\assets-master (2)\assets-master\Assets\bin\Debug\Assets.exe
+D:\9527\assets-master (2)\assets-master\Assets\bin\Debug\Assets.pdb
+D:\project\assets-master (3)\assets-master\Assets\bin\Debug\Assets.exe.config
+D:\project\assets-master (3)\assets-master\Assets\obj\Debug\Assets.exe
+D:\project\assets-master (3)\assets-master\Assets\obj\Debug\Assets.pdb
+D:\project\assets-master (3)\assets-master\Assets\obj\Debug\Assets.csprojResolveAssemblyReference.cache
+D:\project\assets-master (3)\assets-master\Assets\obj\Debug\Assets.Main.resources
+D:\project\assets-master (3)\assets-master\Assets\obj\Debug\Assets.Properties.Resources.resources
+D:\project\assets-master (3)\assets-master\Assets\obj\Debug\Assets.Test.Views.Form1.resources
+D:\project\assets-master (3)\assets-master\Assets\obj\Debug\Assets.AssetManage.AssetsBorrow.resources
+D:\project\assets-master (3)\assets-master\Assets\obj\Debug\Assets.AssetManage.AssetsRetirement.resources
+D:\project\assets-master (3)\assets-master\Assets\obj\Debug\Assets.AssetManage.AssetsReturn.resources
+D:\project\assets-master (3)\assets-master\Assets\obj\Debug\Assets.AssetManage.AssetsStorage.resources
+D:\project\assets-master (3)\assets-master\Assets\obj\Debug\Assets.AssetsClass.AssetsClassForm.resources
+D:\project\assets-master (3)\assets-master\Assets\obj\Debug\Assets.AssetsClass.AssetsClassRetirement.resources
+D:\project\assets-master (3)\assets-master\Assets\obj\Debug\Assets.BrandManage.BrandForm.resources
+D:\project\assets-master (3)\assets-master\Assets\obj\Debug\Assets.DepartmentManage.DepartmentForm.resources
+D:\project\assets-master (3)\assets-master\Assets\obj\Debug\Assets.InformationManage.Information.resources
+D:\project\assets-master (3)\assets-master\Assets\obj\Debug\Assets.PlaceManage.PlaceForm.resources
+D:\project\assets-master (3)\assets-master\Assets\obj\Debug\Assets.SupplierManage.SupplierForm.resources
+D:\project\assets-master (3)\assets-master\Assets\obj\Debug\Assets.csproj.GenerateResource.Cache
+D:\project\assets-master (3)\assets-master\Assets\bin\Debug\Assets.exe
+D:\project\assets-master (3)\assets-master\Assets\bin\Debug\Assets.pdb
+C:\Users\user\Desktop\assets-master4\assets-master\Assets\bin\Debug\Assets.exe.config
+C:\Users\user\Desktop\assets-master4\assets-master\Assets\bin\Debug\Assets.exe
+C:\Users\user\Desktop\assets-master4\assets-master\Assets\bin\Debug\Assets.pdb
+C:\Users\user\Desktop\assets-master4\assets-master\Assets\obj\Debug\Assets.csprojAssemblyReference.cache
+C:\Users\user\Desktop\assets-master4\assets-master\Assets\obj\Debug\Assets.Main.resources
+C:\Users\user\Desktop\assets-master4\assets-master\Assets\obj\Debug\Assets.Properties.Resources.resources
+C:\Users\user\Desktop\assets-master4\assets-master\Assets\obj\Debug\Assets.Test.Views.Form1.resources
+C:\Users\user\Desktop\assets-master4\assets-master\Assets\obj\Debug\Assets.AssetManage.AssetsBorrow.resources
+C:\Users\user\Desktop\assets-master4\assets-master\Assets\obj\Debug\Assets.AssetManage.AssetsRetirement.resources
+C:\Users\user\Desktop\assets-master4\assets-master\Assets\obj\Debug\Assets.AssetManage.AssetsReturn.resources
+C:\Users\user\Desktop\assets-master4\assets-master\Assets\obj\Debug\Assets.AssetManage.AssetsStorage.resources
+C:\Users\user\Desktop\assets-master4\assets-master\Assets\obj\Debug\Assets.AssetsClass.AssetsClassForm.resources
+C:\Users\user\Desktop\assets-master4\assets-master\Assets\obj\Debug\Assets.AssetsClass.AssetsClassRetirement.resources
+C:\Users\user\Desktop\assets-master4\assets-master\Assets\obj\Debug\Assets.BrandManage.BrandForm.resources
+C:\Users\user\Desktop\assets-master4\assets-master\Assets\obj\Debug\Assets.DepartmentManage.DepartmentForm.resources
+C:\Users\user\Desktop\assets-master4\assets-master\Assets\obj\Debug\Assets.InformationManage.Information.resources
+C:\Users\user\Desktop\assets-master4\assets-master\Assets\obj\Debug\Assets.PlaceManage.PlaceForm.resources
+C:\Users\user\Desktop\assets-master4\assets-master\Assets\obj\Debug\Assets.SupplierManage.SupplierForm.resources
+C:\Users\user\Desktop\assets-master4\assets-master\Assets\obj\Debug\Assets.csproj.GenerateResource.cache
+C:\Users\user\Desktop\assets-master4\assets-master\Assets\obj\Debug\Assets.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\assets-master4\assets-master\Assets\obj\Debug\Assets.exe
+C:\Users\user\Desktop\assets-master4\assets-master\Assets\obj\Debug\Assets.pdb
